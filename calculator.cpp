@@ -1,3 +1,4 @@
+#include <gtest/gtest.h>
 #include "calculator.h"
 
 int add(int a, int b) {
